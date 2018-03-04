@@ -1,0 +1,9 @@
+
+*.h5
+*.txt
+*.json
+*.zip
+*.data-00000-of-00001
+*.npz
+*.index
+*.meta
